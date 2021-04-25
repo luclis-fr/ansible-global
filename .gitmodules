@@ -1,0 +1,3 @@
+[submodule "roles/new_linux"]
+	path = roles/new_linux
+	url = https://github.com/luclis-xyz/ansible-new_linux
